@@ -1,49 +1,12 @@
 // - - - - - - - - - - - - - - - - - -
 
-// Scott added
+// Scott added for global styles
+
+// - - - - - - - - - - - - - - - - - -
 
 // For custom menus: links that are NOT blue by default.
 .subtle-link {
     color: $text-dark-color;
-}
-
-.publication-left {
-	position: relative;
-	width: auto;
-	padding-bottom: 1em;
-	padding-right: 0;
-	float: none;
-	text-align: center;
-	display: block;
-
-	@include mq(tabletp) {
-		float: left;
-		padding-right: 2em;
-		text-align: left;
-		display: inline;
-	}
-}
-
-.publication-right {
-	position: relative;
-	width: auto;
-	padding-bottom: 1em;
-	padding-left: 0;
-	float: none;
-	text-align: center;
-	display: block;
-
-	@include mq(tabletp) {
-		float: right;
-		padding-left: 2em;
-		text-align: right;
-		display: inline;
-	}
-}
-
-.publication-nowrap {
-	width:100%;
-	overflow: hidden;
 }
 
 // Class for footnotes, like the last line of Contact page.
@@ -62,9 +25,6 @@
 		font-size: $footnote-large;
 	}
 }
-
-// - - - - - - - - - - - - - - - - - -
-
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Basics
 

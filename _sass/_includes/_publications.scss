@@ -1,0 +1,47 @@
+// - - - - - - - - - - - - - - - - - -
+
+// Scott added for images on publications page
+
+// - - - - - - - - - - - - - - - - - -
+
+// Use this class for left-aligned images on /publications
+.publication-left {
+	position: relative;
+	width: auto;
+	padding-bottom: 1em;
+	padding-right: 0;
+	float: none;
+	text-align: center;
+	display: block;
+
+	@include mq(tabletp) {
+		float: left;
+		padding-right: 2em;
+		text-align: left;
+		display: inline;
+	}
+}
+
+// Use this class for right-aligned images on /publications
+.publication-right {
+	position: relative;
+	width: auto;
+	padding-bottom: 1em;
+	padding-left: 0;
+	float: none;
+	text-align: center;
+	display: block;
+
+	@include mq(tabletp) {
+		float: right;
+		padding-left: 2em;
+		text-align: right;
+		display: inline;
+	}
+}
+
+// Use this class for text that should not wrap around images on /publications (e.g., bullet points)
+.publication-nowrap {
+	width:100%;
+	overflow: hidden;
+}
