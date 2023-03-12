@@ -31,15 +31,20 @@
 
 .footer__copyright {
 	display: block;
-	font-size: 13px;
+	font-size: $footnote-small;
+	font-weight: $footnote-weight;
+	line-height: $footnote-lineheight;
+	letter-spacing: $footnote-spacing;
 	color: $text-light-color;
 
 	@include mq(tabletl) {
 		padding-left: 40px;
+		font-size: $footnote-medium;
 	}
 
 	@include mq(laptop) {
 		padding-left: 60px;
+		font-size: $footnote-large;
 	}
 
 	a {
