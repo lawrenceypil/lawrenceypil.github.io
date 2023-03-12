@@ -1,7 +1,8 @@
 // - - - - - - - - - - - - - - - - - -
 
-// Scott added to make homepage image change color when moused over
+// Scott added
 
+// To make homepage image change color when moused over:
 .homepage-image {
 &:hover {
     opacity: 0.85;
@@ -17,6 +18,7 @@
   margin-right: auto;
   display: block;
   background-color: $accent_color;
+  text-align: center;
 }
 
 .subtle-link {
@@ -25,6 +27,45 @@
 
 .mild-padding {
     margin-left: 15vh;
+}
+
+.publication-left {
+	position: relative;
+	width: auto;
+	padding-bottom: 1em;
+	padding-right: 0;
+	float: none;
+	text-align: center;
+	display: block;
+
+	@include mq(tabletp) {
+		float: left;
+		padding-right: 2em;
+		text-align: left;
+		display: inline;
+	}
+}
+
+.publication-right {
+	position: relative;
+	width: auto;
+	padding-bottom: 1em;
+	padding-left: 0;
+	float: none;
+	text-align: center;
+	display: block;
+
+	@include mq(tabletp) {
+		float: right;
+		padding-left: 2em;
+		text-align: right;
+		display: inline;
+	}
+}
+
+.publication-nowrap {
+	width:100%;
+	overflow: hidden;
 }
 
 // - - - - - - - - - - - - - - - - - -
