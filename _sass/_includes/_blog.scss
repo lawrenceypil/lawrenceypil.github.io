@@ -42,26 +42,23 @@
 }
 
 .blog-post__image {
-	margin-top: 20px;
-	margin-left: 13%;
-	display: block;
-	width: 50%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 30vh;
 	height: auto;
-	padding-bottom: 56.25%;
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-
-	@include mq(tabletp) {
-		margin-top: 25px;
-	}
+	display: block;
+	text-align: center;
 
 	@include mq(tabletl) {
-		margin-top: 30px;
+		margin-top: 15px;
+		margin-bottom: 15px;
 	}
 
 	@include mq(laptop) {
-		margin-top: 40px;
+		margin-top: 20px;
+		margin-bottom: 20px;
 	}
 }
 
