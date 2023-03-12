@@ -6,12 +6,18 @@ featured_image: /assets/images/main.jpg
 permalink: /publications
 ---
 
-<center><a class="subtle-link" href="#sectionbooks">Books</a> - <a class="subtle-link" href="#sectionpoems">Poems</a> -  <a class="subtle-link" href="#sectionessays">Essays</a> - <a class="subtle-link" href="#sectionotherworks">Other Works</a> </center>
+<center>
+    <a class="subtle-link" href="#books">Books</a> - 
+    <a class="subtle-link" href="#poems">Poems</a> -  
+    <a class="subtle-link" href="#essays">Essays</a> - 
+    <a class="subtle-link" href="#other-works">Other Works</a>
+</center>
 
 ---
-### Books<a name="sectionbooks"></a>
 
-#### ***The Experiment of the Tropics*** (2019) - <a class="subtle-link" href="https://www.amazon.com/Experiment-Tropics-Lawrence-Lacambra-Ypil/dp/0982814259">[Order here]</a>
+### Books
+
+#### ***The Experiment of the Tropics*** (2019) - [\[Order here\]](https://www.amazon.com/Experiment-Tropics-Lawrence-Lacambra-Ypil/dp/0982814259)
 
 <img src="/assets/images/experiment.jpg"
     alt="The Experiment of the Tropics"
@@ -27,12 +33,12 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 <br />
 
 <div class="publication-nowrap">
-<ul>
-<li>Lambda Literary Awards finalist, 2020</li>
-<li><em>The Believer</em> Book Awards longlist, 2020</li>
-<li>Inaugural Gaudy Boy Poetry Book Prize co-winner, 2019</li>
-<li>One of <em>The Millions</em>' must-read poetry books, April 2019</li>
-</ul>
+    <ul>
+        <li>Lambda Literary Awards finalist, 2020</li>
+        <li><em>The Believer</em> Book Awards longlist, 2020</li>
+        <li>Inaugural Gaudy Boy Poetry Book Prize co-winner, 2019</li>
+        <li>One of <em>The Millions</em>' must-read poetry books, April 2019</li>
+    </ul>
 </div>
 
 **Praise for *Experiment*:**
@@ -51,7 +57,15 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 
 ###### *"We find ourselves, at the end, with a book that has only revealed a part of its secrets to us. Woken from a dream, we open our eyes to a world that seems a little more beautiful."* - Kendrick Loo, [*Empty Mirror*](https://www.emptymirrorbooks.com/reviews/experiment-tropics-lawrence-lacambra-ypil-review)
 
-#### ***The Highest Hiding Place*** (2009) - <a class="subtle-link" href="https://unipress.ateneo.edu/product/highest-hiding-place-poems">[Order here]</a>
+<br />
+
+<center>
+    <p>◆</p>
+</center>
+
+<br />
+
+#### ***The Highest Hiding Place*** (2009) - [\[Order here\]](https://unipress.ateneo.edu/product/highest-hiding-place-poems)
 
 <img src="/assets/images/highesthiding.jpg"
     alt="The Highest Hiding Place"
@@ -65,9 +79,11 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 
 ###### *"Reading Ypil is meeting oneself in memory, that of the poet’s and one’s own, and in that encounter, affirm everything that one had gone through — pain, fear, lust, love, the interminable secrets that are always converging and fading, and converging again in every moment of one’s ordinary day, and even in one’s dreams. And we find our own hiding places."* — Merlie Alunan
 
+<br />
+
 ---
 
-### Poems<a name="sectionpoems"></a>
+### Poems
 
 [The Nature of a City](https://www.asiancha.com/content/view/2839/626/) - *Cha: An Asian Literary Journal*, October 2017
 
@@ -79,7 +95,7 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 
 ---
 
-### Essays<a name="sectionessays"></a>
+### Essays
 
 [Kobo Abe's *Beasts Head for Home* and the Question of Home](https://www.asiancha.com/content/view/2764/621/) - *Cha: An Asian Literary Journal*, June 2017
 
@@ -89,6 +105,6 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 
 ---
 
-### Other Works<a name="sectionotherworks"></a>
+### Other Works
 
 [Writing the Philippines](https://chajournal.blog/category/issue-40-writing-the-philippines/) - Guest co-editor, *Cha: An Asian Literary Journal,* July 2018

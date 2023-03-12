@@ -1,15 +1,10 @@
 ---
-layout: page-notitle
+layout: page
 title: Events
 link_preview: ""
 featured_image: /assets/images/main.jpg
 permalink: /events
 ---
-
-<center><b><a class="subtle-link" href="#sectionevents">Events</a></b></center>
-
----
-<a name="sectionevents"></a>
 
 [New Encounters / New Works](https://www.facebook.com/SingLitStation/videos/729452287613287), Philippine Lit Reading Group Reading, SingLit Station, August 2020
 

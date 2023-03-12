@@ -1,5 +1,5 @@
 ---
-layout: page-notitle
+layout: page
 title: Privacy Policy
 link_preview: ""
 featured_image: ""

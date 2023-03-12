@@ -1,16 +1,12 @@
 ---
-layout: page-notitle
+layout: page
 title: Interviews
 link_preview: ""
 featured_image: /assets/images/main.jpg
 permalink: /interviews
 ---
 
-<center><b><a class="subtle-link" href="#sectioninterviews">Interviews</a></b></center>
-
----
-
-#### <a name="sectioninterviews"></a>2021
+#### 2021
 ["Nothing needs to happen, but things can change,"](https://www.poetrynw.org/interview-fruitful-and-dangerous-a-conversation-with-lawrence-lacambra-ypil/) Poetry Northwest
 
 #### 2020
