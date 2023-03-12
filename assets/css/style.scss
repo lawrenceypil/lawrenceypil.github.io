@@ -119,6 +119,12 @@ $blockquote-lineheight: {{ site.data.settings.font_settings.blockquote.line_heig
 $button-weight: {{ site.data.settings.font_settings.buttons.weight }};
 $button-spacing: {{ site.data.settings.font_settings.buttons.letter_spacing }}em;
 
+$footnote-small: {{ site.data.settings.font_settings.footnote.small_size }}px;
+$footnote-medium: {{ site.data.settings.font_settings.footnote.medium_size }}px;
+$footnote-large: {{ site.data.settings.font_settings.footnote.large_size }}px;
+$footnote-weight: {{ site.data.settings.font_settings.footnote.weight }};
+$footnote-spacing: {{ site.data.settings.font_settings.footnote.letter_spacing }}em;
+$footnote-lineheight: {{ site.data.settings.font_settings.footnote.line_height }};
 
 // Header
 $overlay-opacity: {{ site.data.settings.header_settings.overlay_opacity }};
@@ -153,5 +159,3 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
 @import "_includes/_portfolio";
 @import "_includes/_blog";
-
-
