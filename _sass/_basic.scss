@@ -105,7 +105,10 @@ body {
 	color: $text-medium-color;
 }
 
-
+body {
+	display: flex;
+	flex-direction: column;
+}
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Typography
 
@@ -389,6 +392,7 @@ hr {
 
 .page {
 	@include transition(all 0.4s ease-in-out);
+	flex: 1;
 }
 
 body.loading {
