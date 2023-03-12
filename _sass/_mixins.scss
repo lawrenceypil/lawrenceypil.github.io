@@ -8,15 +8,15 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Responsive
 // Usage: @include mq(tabletp) {}
 
-$break-phonel: 480px;
+$break-phone: 480px;
 $break-tabletp: 768px;
 $break-tabletl: 1024px;
 $break-laptop: 1220px;
 $break-desktop: 1600px;
 
 @mixin mq($media) {
-	@if $media == phonel {
-		@media only screen and (min-width: $break-phonel) { @content; }
+  @if $media == phone {
+		@media only screen and (min-width: $break-phone) { @content; }
 	}
 	@else if $media == tabletp {
 		@media only screen and (min-width: $break-tabletp) { @content; }
@@ -130,7 +130,3 @@ $break-desktop: 1600px;
     box-shadow: $top $left $blur $color;
   }
 }
-
-
-
-
