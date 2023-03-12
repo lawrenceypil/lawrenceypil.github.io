@@ -24,7 +24,7 @@ By braiding the music of anthropology with the intimacy of the lyric, Lawrence Y
 
 Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersection of text and image to meditate on the nature of a city and its longing, the revelatory power of photography, and the startling capacity of poetry to cut into the violent but redemptive parts of history.
 
-<br>
+<br />
 
 <div class="publication-nowrap">
 <ul>
