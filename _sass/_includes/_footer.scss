@@ -13,11 +13,11 @@
 	padding: 20px;
 
 	@include mq(tabletp) {
-		padding: 40px;
+		padding: 20px;
 	}
 
 	@include mq(laptop) {
-		padding: 60px;
+		padding: 30px;
 	}
 
 	@include mq(tabletl) {
