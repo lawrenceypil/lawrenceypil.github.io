@@ -23,6 +23,8 @@ Two mirrors in a room hold a vase of flowers in their gaze. A mother mistakenly 
 
 Because words belong to the deaf and the mute, then they are ours. Because they slip through our ears when we try to chain them to our tongues, then we are blessed by their speech. Because our greatest loves, our deepest ones, refuse to cease surprising us, we find ourselves desperately desperately stumbling past the tangled bush of cliché.
 
-Who will not stop the day for this? Words, words, telling us: "I will give you. I will give whatever it is you want." ∎
+Who will not stop the day for this? Words, words, telling us: "I will give you. I will give whatever it is you want."
+
+---
 
 *Photo from SunStar Cebu, where this piece was originally published on October 6, 2007.*
