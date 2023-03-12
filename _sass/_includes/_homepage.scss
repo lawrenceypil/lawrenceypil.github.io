@@ -1,0 +1,24 @@
+// - - - - - - - - - - - - - - - - - -
+
+// Scott added for homepage
+
+// - - - - - - - - - - - - - - - - - -
+
+// To make homepage image change color when moused over:
+.homepage-image {
+    &:hover {
+        opacity: 0.85;
+        }
+    }
+    
+.image-holder {
+    max-width: 45vh;
+    margin-left: auto;
+    margin-top: 4vh;
+    margin-bottom: 0;
+    margin-right: auto;
+    display: block;
+    background-color: $accent_color;
+    text-align: center;
+}
+    
