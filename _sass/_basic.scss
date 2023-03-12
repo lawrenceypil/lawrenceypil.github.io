@@ -68,6 +68,22 @@
 	overflow: hidden;
 }
 
+.footnote {
+	margin-top: 15px;
+	font-size: $footnote-small;
+	font-weight: $footnote-weight;
+	line-height: $footnote-lineheight;
+	letter-spacing: $footnote-spacing;
+
+	@include mq(tabletp) {
+		font-size: $footnote-medium;
+	}
+
+	@include mq(laptop) {
+		font-size: $footnote-large;
+	}
+}
+
 // - - - - - - - - - - - - - - - - - -
 
 
