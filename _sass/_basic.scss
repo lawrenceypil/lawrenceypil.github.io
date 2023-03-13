@@ -26,6 +26,17 @@
 	}
 }
 
+// Default bullet point is a diamond.
+ul {
+	list-style-type: none;
+	padding: 0;
+
+	li::before {
+		content: "\25C6";
+		padding-right: 5px;
+	}
+}
+
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Basics
 
 html, body {
