@@ -103,8 +103,8 @@ font_settings:
     medium_size: 25
     large_size: 30
     weight: 400
-    letter_spacing: -0.02
-    line_height: 1.3
+    letter_spacing: 0
+    line_height: 1.6
   h2:
     small_size: 17
     medium_size: 22
