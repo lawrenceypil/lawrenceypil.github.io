@@ -21,4 +21,25 @@
     background-color: $accent_color;
     text-align: center;
 }
-    
+
+// To make list of awards flow horizontally if possible:
+.horizontal-list {
+    text-align: center;
+    padding-left: 0;
+
+    li {
+        display: inline-block;
+        padding-right: 0;
+
+        &:before {
+            padding-left: 3px;
+            padding-right: 5px;
+        }
+
+        // @include mq(tabletl) {
+        //     &:first-of-type:before {
+        //         content: "";
+        //     } 
+        // }
+    }
+}
