@@ -268,7 +268,9 @@
 }
 
 .menu__list__item {
-
+	&:before {
+		content: none;
+	}
 }
 
 .menu__list__item__link {
