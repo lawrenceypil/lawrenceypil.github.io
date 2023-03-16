@@ -24,4 +24,4 @@ Sometimes, we just need to find some other place to relieve ourselves.
 
 ---
 
-*Photo from SunStar Cebu, where this piece was originally published on November 10, 2007.*
+*Illustration by Josua Cabrera for SunStar Cebu, where this piece was originally published on November 10, 2007.*

@@ -23,4 +23,4 @@ And then there's you. You who found yourself, for no particular reason, going ou
 
 ---
 
-*Photo from SunStar Cebu, where this piece was originally published on September 22, 2007.*
+*Illustration by Josua Cabrera for SunStar Cebu, where this piece was originally published on September 22, 2007.*

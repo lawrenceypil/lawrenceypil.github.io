@@ -19,4 +19,4 @@ On the other hand, gardens are needy things. They need human touch. They are vul
 
 ---
 
-*Photo from SunStar Cebu, where this piece was originally published on June 16, 2007.*
+*Illustration by Josua Cabrera for SunStar Cebu, where this piece was originally published on June 16, 2007.*

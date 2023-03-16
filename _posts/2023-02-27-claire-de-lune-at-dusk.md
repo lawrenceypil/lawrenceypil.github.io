@@ -19,4 +19,4 @@ At some point, my parents wanted me to go to a studio to record my piano playing
 
 ---
 
-*Photo from SunStar Cebu, where this piece was originally published on December 15, 2009.*
+*Illustration by Josua Cabrera for SunStar Cebu, where this piece was originally published on December 15, 2009.*

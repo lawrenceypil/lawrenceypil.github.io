@@ -27,4 +27,4 @@ Who will not stop the day for this? Words, words, telling us: "I will give you. 
 
 ---
 
-*Photo from SunStar Cebu, where this piece was originally published on October 6, 2007.*
+*Illustration by Josua Cabrera for SunStar Cebu, where this piece was originally published on October 6, 2007.*
