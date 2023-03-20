@@ -2,7 +2,7 @@ Backend for [my personal website](https://lawrenceypil.com).
 
 
 ## To-do
-- Transfer ownership to Larry, add Scott as collaborator
+- Add Scott as collaborator
 - Delete Larry's Forestry
 - Photo credit for posts
 - New books + alt text
