@@ -17,6 +17,27 @@ permalink: /publications
 
 # Books
 
+## ***Ventanilla: Duet*** (2022)
+
+*Ventanilla: Duet* is the product of a month-long collaboration between writer Lawrence Lacambra Ypil and historian Martin Dusinberre. Part exploration of the significance of the archives, part dialogue between poet and historian, this chapbook is a rumination on what it means to be in dialogue with our difficult past and the kind of company conversation keeps across space and time, as we try to tell the stories of the world to each other, and to ourselves.
+
+There are two versions. One is notated and designed by Melbourne-based Regine Abos, as a celebration of multi-locationed, cross-disciplinary dialogue.
+
+<img src="/assets/images/ventanilla_and_sentimental.jpg"
+    alt="Covers of Ventanilla: Duet and You know I was sentimental during the thought of the house"
+    class="publication-right"
+    style="height:50vh" />
+
+## ***You know I was sentimental during the thought of the house*** (2022)
+
+In 2018, Zach took some photographs of a house. In May 2022, Zach and Larry talk about the photographs. In June 2022, Zach and Larry decide to let Google transcriber do its strange awkward magic and then we let book wizard Marc Abuan turn all of this into a book of...is it poetry? A play? A brutally frank and honest conversation overheard through TV static which turns what was meant to be a tell-all into beautifully garbled speech. What should have been confession turned back into poetry, absurdist screenplay, which means *You know I was sentimental during the thought of the house* is really a book about childhood and houses and what we try to do when we want to talk about the past to set things straight only to end up making a wonderful queer mess out of it instead.
+
+<br />
+
+<center>
+    <p>◆</p>
+</center>
+
 ## ***The Experiment of the Tropics*** (2019) - [\[Order here\]](https://www.amazon.com/Experiment-Tropics-Lawrence-Lacambra-Ypil/dp/0982814259)
 
 <img src="/assets/images/experiment.jpg"
