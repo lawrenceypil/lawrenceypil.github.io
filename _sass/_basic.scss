@@ -538,8 +538,3 @@ section {
 		@include translate(0,30px);
 	}
 }
-
-@font-face {  /* Added this section */
-    font-family: "Action-Sans";
-    src: url("/assets/action-sans/ActionSans-Regular.otf") format("opentype");
-}
