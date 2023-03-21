@@ -13,7 +13,7 @@ permalink: /
 </ul>
 
 <div class="image-holder homepage-image">
-    <a href="/publications#books">
+    <a href="/publications#the-experiment-of-the-tropics-2019---order-here">
         <img src="/assets/images/experiment.jpg"
         alt="The Experiment of the Tropics" />
     </a>
