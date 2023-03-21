@@ -6,4 +6,3 @@ Backend for [my personal website](https://lawrenceypil.com).
 - Delete Larry's Forestry
 - Photo credit for posts
 - New books + alt text
-- Sitemap
