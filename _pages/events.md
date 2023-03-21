@@ -15,6 +15,6 @@ permalink: /events
 
 ## 2019
 
-[Jalan Besar Writer-in-Residence](https://www.singlitstation.com/residency), 2019-2020
+[Jalan Besar Writer-in-Residence](https://www.singlitstation.com/fellowship), 2019-2020
 
-[Poetry as Embodied Speech](https://www.academic-medicine.edu.sg/educationconference2019/symposium/health-and-the-humanities-music-arts-and-poetry), Singhealth Duke-NUS Education Conference, September 2019
+[Poetry as Embodied Speech](https://web.archive.org/web/20190805223441/https://www.academic-medicine.edu.sg/educationconference2019/symposium/health-and-the-humanities-music-arts-and-poetry), Singhealth Duke-NUS Education Conference, September 2019
