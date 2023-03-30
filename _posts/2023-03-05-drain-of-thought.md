@@ -3,6 +3,7 @@ layout: post
 title: Drain of Thought
 date: '2023-03-05T16:00:00.000Z'
 featured_image: /assets/images/selected-works/drainofthought.png
+featured_image_alt: Abstract multicolor painting. A distorted human face and a hand being pulled into a flushing toilet.
 ---
 
 And because our toilet in the house has conked out, given up, has insisted that "flushing" isn't about the water going down the drain but going up to meet you with your quickly growing, yellow reflection, I'm tempted to think this is some sign or symbol or foreboding omen of things to come.

@@ -20,7 +20,7 @@ featured_image: /assets/images/main.jpg
 			</div>
 				{% if post.featured_image != '' %}
 					<a href="{{ post.url | relative_url }}">
-						<img class="blog-post__image" src="{{ post.featured_image | relative_url }}" />
+						<img class="blog-post__image" src="{{ post.featured_image | relative_url }}" alt="{{ post.featured_image_alt }}" />
 					</a>
 				{% endif %}
 			

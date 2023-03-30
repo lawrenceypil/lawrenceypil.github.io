@@ -3,6 +3,7 @@ layout: post
 title: Daily Rituals
 date: '2023-03-02T16:00:00.000Z'
 featured_image: /assets/images/selected-works/dailyrituals.png
+featured_image_alt: Sketch. Close up of a man's face in the foreground. A church with bells and a cross in the background. There is a moon in the sky.
 ---
 
 In the past few weeks, I have found myself going to mass everyday, 6:30 in the morning when I'm lucky enough to find myself back home early the night before and therefore ready and fit enough to have a full night's sleep and face the unnerving silence of the dawn.
