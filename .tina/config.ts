@@ -52,7 +52,13 @@ export default defineConfig({
           {
             type: "image",
             name: "featured_image",
-            label: "Featured Image",
+            label: "Featured image",
+            required: true,
+          },
+          {
+            type: "string",
+            name: "featured_image_alt",
+            label: "Image alt text (for screenreaders)",
             required: true,
           },
           {
@@ -117,12 +123,17 @@ export default defineConfig({
           {
             type: "string",
             name: "link_preview",
-            label: "Link Preview Text",
+            label: "Link preview text",
           },
           {
             type: "image",
             name: "featured_image",
-            label: "Featured Image",
+            label: "Featured image",
+          },
+          {
+            type: "string",
+            name: "featured_image_alt",
+            label: "Image alt text (for screenreaders)"
           },
           {
             type: "string",
