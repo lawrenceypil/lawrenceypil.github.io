@@ -3,6 +3,7 @@ layout: page
 title: Privacy Policy
 link_preview: ""
 featured_image: ""
+featured_image_alt: ""
 permalink: /privacy
 ---
 

@@ -3,6 +3,7 @@ layout: page-notitle
 title: About
 link_preview: ""
 featured_image: ""
+featured_image_alt: ""
 permalink: /about
 ---
 

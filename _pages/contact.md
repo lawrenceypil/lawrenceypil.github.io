@@ -3,6 +3,7 @@ layout: page
 title: Contact
 link_preview: Email lawrence.ypil@gmail.com or Instagram DM @lawrenceypil.
 featured_image: /assets/images/main.jpg
+featured_image_alt: Lawrence Ypil. Photograph of a middle aged man smiling at the camera. He is seated outdoors in a garden.
 permalink: /contact
 ---
 
