@@ -24,7 +24,7 @@ permalink: /publications
 There are two versions. One is notated and designed by Melbourne-based Regine Abos, as a celebration of multi-locationed, cross-disciplinary dialogue.
 
 <img src="/assets/images/ventanilla_and_sentimental.jpg"
-    alt="Covers of Ventanilla: Duet and You know I was sentimental during the thought of the house"
+    alt="Two books on a wooden platform. First book is entitled Ventanilla Duet, by Lawrence Lacambra Ypil and Martin Dusinberre. Cover is white with abstract black ink-like design. Second book is entitled You know I was sentimental during the thought of the house, by Lawrence Ypil and Zach Aldave. Cover is plain blue."
     class="publication-right"
     style="height:50vh" />
 
@@ -41,7 +41,7 @@ In 2018, Zach took some photographs of a house. In May 2022, Zach and Larry talk
 ## ***The Experiment of the Tropics*** (2019) - [\[Order here\]](https://www.amazon.com/Experiment-Tropics-Lawrence-Lacambra-Ypil/dp/0982814259)
 
 <img src="/assets/images/experiment.jpg"
-    alt="The Experiment of the Tropics"
+    alt="Cover of the book, The Experiment of the Tropics. Poems by Lawrence Lacambra Ypil. Islands of the Philippine archipelago, colored blue, green, and black, are jumbled like puzzle pieces. Top right corner, quote, an exceptional poet, unquote, by Mary Jo Bang."
     class="publication-left"
     style="height:45vh" />
 
@@ -87,7 +87,7 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 ## ***The Highest Hiding Place*** (2009) - [\[Order here\]](https://unipress.ateneo.edu/product/highest-hiding-place-poems)
 
 <img src="/assets/images/highesthiding.jpg"
-    alt="The Highest Hiding Place"
+    alt="Cover of the book, The Highest Hiding Place. Poems by Lawrence Lacambra Ypil. Background is a flower-patterned orange wallpaper peeling off to reveal light behind it."
     class="publication-right"
     style="height:40vh" />
 

@@ -7,8 +7,8 @@ permalink: /about
 ---
 
 <img src="/assets/images/main.jpg"
-    alt="Lawrence Ypil"
-    width="300" />
+    alt="Lawrence Ypil. Photograph of a middle aged man smiling at the camera. He is seated outdoors in a garden."
+    width="300px" />
 
 Lawrence Lacambra Ypil is an award-winning poet and essayist whose work explores the intersection of text and image, and the role of material culture in the construction of cultural identity.
 
