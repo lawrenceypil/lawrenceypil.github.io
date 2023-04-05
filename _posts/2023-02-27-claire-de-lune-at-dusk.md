@@ -3,7 +3,9 @@ layout: post
 title: Claire de Lune at Dusk
 date: '2023-02-27T16:00:00.000Z'
 featured_image: /assets/images/selected-works/clairedelune.png
-featured_image_alt: A watercolor painting. At the bottom, a piano with sheet music open. Behind it, a forest with large trees, birds flying, and blue sky.
+featured_image_alt: >-
+  A watercolor painting. At the bottom, a piano with sheet music open. Behind
+  it, a forest with large trees, birds flying, and blue sky.
 ---
 
 Some afternoons here seem like a dream. Just yesterday, straight from a three-hour poetry class, I step out into a glowing field of music. The Christmas lights of the field have been turned on: long streams of bulbs hanging like hair on the dark heads of trees. Piano notes stretch their long and invisible arms into the darkening field. *Claire de Lune* was playing, or was it Chopin? Like the background music to a play or a show. If I didn't know better, I would have thought I was in a movie.
