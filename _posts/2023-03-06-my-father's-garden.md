@@ -3,7 +3,9 @@ layout: post
 title: My Father's Garden
 date: '2023-03-06T16:00:00.000Z'
 featured_image: /assets/images/selected-works/myfathersgarden.png
-featured_image_alt: Surreal painting. A green leafy forest in the background. The roots of the trees surround a river that rises up to become an ink pen.
+featured_image_alt: >-
+  Surreal painting. A green leafy forest in the background. The roots of the
+  trees surround a river that rises up to become an ink pen.
 ---
 
 While there are things that we spend most of our lives trying to avoid inheriting from our fathers—a bad temper, an insistent and unrelenting desire for order, an impatience for mediocrity, even a growing and unavoidable bald spot—there are also those things that we see in our fathers, which, no matter how hard we pray that genetics will finally grant us its rare favor, we know, we just know we will never ever get.

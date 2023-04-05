@@ -3,7 +3,9 @@ layout: page-notitle
 title: Publications
 link_preview: ""
 featured_image: /assets/images/main.jpg
-featured_image_alt: Lawrence Ypil. Photograph of a middle aged man smiling at the camera. He is seated outdoors in a garden.
+featured_image_alt: >-
+  Lawrence Ypil. Photograph of a middle aged man smiling at the camera.
+  He is seated outdoors in a garden.
 permalink: /publications
 ---
 
