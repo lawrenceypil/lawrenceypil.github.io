@@ -8,11 +8,11 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Responsive
 // Usage: @include mq(tabletp) {}
 
-$break-phone: 480px;
-$break-tabletp: 768px;
-$break-tabletl: 1024px;
-$break-laptop: 1220px;
-$break-desktop: 1600px;
+$break-phone: 30rem;
+$break-tabletp: 48rem;
+$break-tabletl: 64rem;
+$break-laptop: 76.25rem;
+$break-desktop: 100rem;
 
 @mixin mq($media) {
   @if $media == phone {

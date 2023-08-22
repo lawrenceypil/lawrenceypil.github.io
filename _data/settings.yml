@@ -80,77 +80,77 @@ font_settings:
   regular_weight: 400
   bold_weight: 600
   site_title:
-    small_size: 25
-    medium_size: 30
-    large_size: 35
+    small_size: 1.5625
+    medium_size: 1.875
+    large_size: 2.1875
     weight: 400
     letter_spacing: 0
   site_tagline:
-    small_size: 16
-    medium_size: 17
-    large_size: 18
+    small_size: 1
+    medium_size: 1.0625
+    large_size: 1.125
     weight: 400
     letter_spacing: 0
     line_height: 1.5
   menu:
-    small_size: 30
-    medium_size: 17
-    large_size: 18
+    small_size: 1.875
+    medium_size: 1.0625
+    large_size: 1.125
     weight: 400
     letter_spacing: 0
   h1:
-    small_size: 22
-    medium_size: 25
-    large_size: 30
+    small_size: 1.375
+    medium_size: 1.5625
+    large_size: 1.875
     weight: 400
     letter_spacing: 0
     line_height: 1.6
   h2:
-    small_size: 17
-    medium_size: 22
-    large_size: 22
+    small_size: 1.0625
+    medium_size: 1.375
+    large_size: 1.375
     weight: 400
     letter_spacing: 0
     line_height: 1.6
   h3:
-    small_size: 17
-    medium_size: 20
-    large_size: 20
+    small_size: 1.0625
+    medium_size: 1.25
+    large_size: 1.25
     weight: 400
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 13
-    medium_size: 16
-    large_size: 18
+    small_size: 0.8125
+    medium_size: 1
+    large_size: 1.125
     weight: 400
     letter_spacing: 0
     line_height: 1.6
   h4:
-    small_size: 12
-    medium_size: 14
-    large_size: 16
+    small_size: 0.75
+    medium_size: 0.875
+    large_size: 1
     weight: 400
     letter_spacing: 0
     line_height: 1.6
   h5:
-    small_size: 10
-    medium_size: 12
-    large_size: 14
+    small_size: 0.625
+    medium_size: 0.75
+    large_size: 0.875
     weight: 400
     letter_spacing: 0
     line_height: 1.6
   h6:
-    small_size: 8
-    medium_size: 10
-    large_size: 12
+    small_size: 0.5
+    medium_size: 0.625
+    large_size: 0.75
     weight: 400
     letter_spacing: 0
     line_height: 1.6
   blockquote:
-    small_size: 17
-    medium_size: 20
-    large_size: 20
+    small_size: 1.0625
+    medium_size: 1.25
+    large_size: 1.25
     weight: 400
     letter_spacing: -0.02
     line_height: 1.6
@@ -158,9 +158,9 @@ font_settings:
     weight: 600
     letter_spacing: 0
   footnote:
-    small_size: 10
-    medium_size: 12
-    large_size: 15
+    small_size: 0.625
+    medium_size: 0.75
+    large_size: 0.9375
     weight: 400
     letter_spacing: 0
     line_height: 1.6
