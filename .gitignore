@@ -4,6 +4,7 @@ _site
 .jekyll-metadata
 .ruby-version
 .bundle
+Gemfile.lock
 vendor
 node_modules
 
