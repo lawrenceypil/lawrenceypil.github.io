@@ -24,6 +24,13 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+# Sitemap settings
+defaults:
+  - scope:
+      path: "admin/**/*.*"
+    values:
+      sitemap: false
+
 pagination:
     enabled: true
 paginate: 5
