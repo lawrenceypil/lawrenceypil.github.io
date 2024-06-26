@@ -23,4 +23,4 @@ User-agent: PerplexityBot
 User-agent: YouBot
 Disallow: /
 
-Sitemap: 127.0.0.1/sitemap.xml
+Sitemap: https://lawrenceypil.com/sitemap.xml
