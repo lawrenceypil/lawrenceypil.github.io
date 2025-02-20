@@ -1,0 +1,8 @@
+---
+extends: default
+
+ignore: |
+  _site/
+  .jekyll-cache/
+  node_modules/
+  tina/__generated__/
