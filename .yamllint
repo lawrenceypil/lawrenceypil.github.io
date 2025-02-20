@@ -7,3 +7,7 @@ ignore: |
   node_modules/
   tina/__generated__/
   .github/workflows/
+
+rules:
+  line-length:
+    max: 150
