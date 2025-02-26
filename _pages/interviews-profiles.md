@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Interviews & Profiles"
+title: "Interviews // Profiles"
 link_preview: ""
 featured_image: /assets/images/main.jpg
 featured_image_alt: >-
