@@ -26,6 +26,12 @@ permalink: /publications
 
 There are two versions. One is notated and designed by Melbourne-based Regine Abos, as a celebration of multi-locationed, cross-disciplinary dialogue.
 
+<div class="publication-nowrap">
+    <ul>
+        <li>Essay Press Chapbook Contest finalist, 2023</li>
+    </ul>
+</div>
+
 <img src="/assets/images/ventanilla_and_sentimental.jpg"
     alt="Two books on a wooden platform. First book is entitled Ventanilla Duet, by Lawrence Lacambra Ypil and Martin Dusinberre. Cover is white with abstract black ink-like design. Second book is entitled You know I was sentimental during the thought of the house, by Lawrence Ypil and Zach Aldave. Cover is plain blue."
     class="publication-right"
@@ -35,11 +41,7 @@ There are two versions. One is notated and designed by Melbourne-based Regine Ab
 
 In 2018, Zach took some photographs of a house. In May 2022, Zach and Larry talk about the photographs. In June 2022, Zach and Larry decide to let Google transcriber do its strange awkward magic and then we let book wizard Marc Abuan turn all of this into a book of...is it poetry? A play? A brutally frank and honest conversation overheard through TV static which turns what was meant to be a tell-all into beautifully garbled speech. What should have been confession turned back into poetry, absurdist screenplay, which means *You know I was sentimental during the thought of the house* is really a book about childhood and houses and what we try to do when we want to talk about the past to set things straight only to end up making a wonderful queer mess out of it instead.
 
-<br />
-
-<center>
-    <p>◆</p>
-</center>
+{% include section-break.html %}
 
 ## ***The Experiment of the Tropics*** (2019) - [\[Order here\]](https://www.amazon.com/Experiment-Tropics-Lawrence-Lacambra-Ypil/dp/0982814259)
 
@@ -53,8 +55,6 @@ Through the lens of history and photography, *The Experiment of the Tropics* ret
 By braiding the music of anthropology with the intimacy of the lyric, Lawrence Ypil explores history's archives and excavates a city, both real and imagined, that is constituted by the shimmer of petal and porch, coral and brass — a river-refrigerator where women catch their reflections on the sheen of magazines and men lean against the walls of old houses and beckon, *come here*. So, we approach.
 
 Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersection of text and image to meditate on the nature of a city and its longing, the revelatory power of photography, and the startling capacity of poetry to cut into the violent but redemptive parts of history.
-
-<br />
 
 <div class="publication-nowrap">
     <ul>
@@ -81,11 +81,7 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 
 #### *"We find ourselves, at the end, with a book that has only revealed a part of its secrets to us. Woken from a dream, we open our eyes to a world that seems a little more beautiful."* - Kendrick Loo, [*Empty Mirror*](https://www.emptymirrorbooks.com/reviews/experiment-tropics-lawrence-lacambra-ypil-review)
 
-<br />
-
-<center>
-    <p>◆</p>
-</center>
+{% include section-break.html %}
 
 ## ***The Highest Hiding Place*** (2009) - [\[Order here\]](https://unipress.ateneo.edu/product/highest-hiding-place-poems)
 
@@ -100,8 +96,6 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 #### *"In the context of the kinds of poetry that continue to tell people that it’s a form that’s too difficult, a cultural product that’s only for the educated and the elite, the ones who speak in English and are from urban Manila, Ypil’s poems refuse this question of easy or difficult...In and through Ypil’s words, we come to a particular space in this country, the kind that is his secret, but which becomes ours as well."* - [Katrina Santiago](https://katrinasantiago.com/the-sadness-of-here-in-ypils-highest-hiding-place/)
 
 #### *"Reading Ypil is meeting oneself in memory, that of the poet’s and one’s own, and in that encounter, affirm everything that one had gone through — pain, fear, lust, love, the interminable secrets that are always converging and fading, and converging again in every moment of one’s ordinary day, and even in one’s dreams. And we find our own hiding places."* — Merlie Alunan
-
-<br />
 
 ---
 
