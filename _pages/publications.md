@@ -26,10 +26,8 @@ permalink: /publications
 
 There are two versions. One is notated and designed by Melbourne-based Regine Abos, as a celebration of multi-locationed, cross-disciplinary dialogue.
 
-<div class="publication-nowrap">
-    <ul>
-        <li>Essay Press Chapbook Contest finalist, 2023</li>
-    </ul>
+<div class="publication-nowrap" markdown="1">
+* Essay Press Chapbook Contest finalist, 2023
 </div>
 
 <img src="/assets/images/ventanilla_and_sentimental.jpg"
@@ -56,13 +54,11 @@ By braiding the music of anthropology with the intimacy of the lyric, Lawrence Y
 
 Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersection of text and image to meditate on the nature of a city and its longing, the revelatory power of photography, and the startling capacity of poetry to cut into the violent but redemptive parts of history.
 
-<div class="publication-nowrap">
-    <ul>
-        <li>Lambda Literary Awards finalist, 2020</li>
-        <li><em>The Believer</em> Book Awards longlist, 2020</li>
-        <li>Inaugural Gaudy Boy Poetry Book Prize co-winner, 2019</li>
-        <li>One of <em>The Millions</em>' must-read poetry books, April 2019</li>
-    </ul>
+<div class="publication-nowrap" markdown="1">
+* Lambda Literary Awards finalist, 2020
+* <em>The Believer</em> Book Awards longlist, 2020
+* Inaugural Gaudy Boy Poetry Book Prize co-winner, 2019
+* One of <em>The Millions</em>' must-read poetry books, April 2019
 </div>
 
 **Praise for *Experiment*:**
@@ -85,13 +81,15 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 
 ## ***The Highest Hiding Place*** (2009) - [\[Order here\]](https://unipress.ateneo.edu/product/highest-hiding-place-poems)
 
+<div class="publication-nowrap" markdown="1">
+* Madrigal-Gonzalez First Book Award winner, 2011
+* Gintong Aklat Awards for English Literature finalist, 2010
+</div>
+
 <img src="/assets/images/highesthiding.jpg"
     alt="Cover of the book, The Highest Hiding Place. Poems by Lawrence Lacambra Ypil. Background is a flower-patterned orange wallpaper peeling off to reveal light behind it."
     class="publication-right"
     style="height:40vh" />
-
-* Madrigal-Gonzalez First Book Award winner, 2011
-* Gintong Aklat Awards for English Literature finalist, 2010
 
 #### *"In the context of the kinds of poetry that continue to tell people that it’s a form that’s too difficult, a cultural product that’s only for the educated and the elite, the ones who speak in English and are from urban Manila, Ypil’s poems refuse this question of easy or difficult...In and through Ypil’s words, we come to a particular space in this country, the kind that is his secret, but which becomes ours as well."* - [Katrina Santiago](https://katrinasantiago.com/the-sadness-of-here-in-ypils-highest-hiding-place/)
 
