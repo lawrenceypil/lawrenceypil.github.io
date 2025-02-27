@@ -1,5 +1,6 @@
 ---
 url: https://lawrenceypil.com
+email: lawrence.ypil@gmail.com
 
 collections:
   pages:
@@ -21,6 +22,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-email-protect
 
 # Sitemap settings
 defaults:
@@ -33,3 +35,9 @@ pagination:
   enabled: true
 paginate: 5
 paginate_path: "/selected-works/page:num/"
+
+# Library
+
+jquery:
+  version: "3.6.0"
+  integrity: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="

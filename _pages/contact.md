@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-link_preview: Email lawrence.ypil@gmail.com or Instagram DM @lawrenceypil.
+link_preview: Email or DM me.
 featured_image: /assets/images/main.jpg
 featured_image_alt: >-
   Lawrence Ypil. Photograph of a middle aged man smiling at the camera. He is
@@ -9,6 +9,6 @@ featured_image_alt: >-
 permalink: /contact
 ---
 
-Email <a href="mailto:lawrence.ypil@gmail.com" target="_blank">lawrence.ypil@gmail.com</a> or Instagram DM <a href="https://www.instagram.com/lawrenceypil" target="_blank">@lawrenceypil</a>.
+Email <a href="mailto:{{ site.email | encode_email }}" target="_blank">{{ site.email }}</a> or Instagram DM <a href="https://www.instagram.com/lawrenceypil" target="_blank">@lawrenceypil</a>.
 
 <p class="footnote"> Web dev by <a target="_blank" href="https://scottleechua.com/colophon">Scott Lee Chua</a>. Powered by <a target="_blank" href="https://jekyllrb.com">Jekyll</a> with the <a target="_blank" href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme">Journal theme</a>. </p>
