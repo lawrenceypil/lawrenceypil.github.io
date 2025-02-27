@@ -20,7 +20,7 @@ sass:
   style: compressed
 
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-email-protect
   - jekyll-target-blank
@@ -38,8 +38,8 @@ defaults:
 
 pagination:
   enabled: true
-paginate: 5
-paginate_path: "/selected-works/page:num/"
+  per_page: 5
+  permalink: "/selected-works/page:num/"
 
 # Library
 

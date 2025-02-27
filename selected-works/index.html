@@ -2,6 +2,8 @@
 layout: default
 title: Selected Works
 link_preview: ""
+pagination:
+  enabled: true
 featured_image: /assets/images/main.jpg
 featured_image_alt: >-
   Lawrence Ypil. Photograph of a middle aged man smiling at the camera.
@@ -45,12 +47,12 @@ featured_image_alt: >-
 
 	{% if paginator.previous_page %}
 	<div class="pagination__prev">
-		<a href="{{ paginator.previous_page_path | relative_url }}" class="button button--large"><i class="fa fa-angle-left" aria-hidden="true"></i> <span>Newer Posts</span></a>
+		<a href="{{ paginator.previous_page_path | relative_url }}" class="button button--large"><i class="fa fa-angle-left" aria-hidden="true"></i> <span>Newer</span></a>
 	</div>
 	{% endif %}
 	{% if paginator.next_page %}
 	<div class="pagination__next">
-		<a href="{{ paginator.next_page_path | relative_url }}" class="button button--large"><span>Older Posts</span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+		<a href="{{ paginator.next_page_path | relative_url }}" class="button button--large"><span>Older</span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 	</div>
 	{% endif %}
 
