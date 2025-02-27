@@ -5,3 +5,7 @@ init:
 
 dev:
 	bundle exec jekyll serve
+
+proof:
+	bundle exec jekyll build
+	ruby runHtmlProofer.rb
