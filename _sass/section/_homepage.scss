@@ -1,3 +1,6 @@
+@use 'vars';
+@use 'mixins' as *;
+
 // - - - - - - - - - - - - - - - - - -
 
 // Scott added for homepage
@@ -18,7 +21,7 @@
     margin-bottom: 0;
     margin-right: auto;
     display: block;
-    background-color: $accent_color;
+    background-color: vars.$accent_color;
     text-align: center;
 }
 

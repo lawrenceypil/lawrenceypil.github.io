@@ -1,3 +1,6 @@
+@use 'vars';
+@use 'mixins' as *;
+
 // - - - - - - - - - - - - - - - - - -
 
 // Socials
@@ -29,10 +32,10 @@
 	width: 30px;
 	height: 30px;
 	border-radius: 100%;
-	background: $text-light-color;
+	background: vars.$text-light-color;
 	font-size: 17px;
 	line-height: 1;
-	color: $background-color;
+	color: vars.$background-color;
 
 	@include mq(tabletp) {
 		width: 40px;
@@ -48,7 +51,7 @@
 	}
 
 	&:hover {
-		background: $accent-color;
-		color: $background-color;
+		background: vars.$accent-color;
+		color: vars.$background-color;
 	}
 }

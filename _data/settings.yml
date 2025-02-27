@@ -3,11 +3,7 @@ basic_settings:
   site_title: Lawrence Ypil
   site_tagline:
   favicon_image:
-
-header_settings:
   logo_image:
-  logo_width: 200
-  overlay_opacity: 0.7
 
 menu_settings:
   menu_items:
@@ -23,10 +19,6 @@ menu_settings:
       url: '/selected-works'
     - title: 'Contact'
       url: '/contact'
-
-
-grid_settings:
-  grid_spacing: 10
 
 contact_settings:
   form_action: ''
@@ -61,109 +53,6 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: ''
-
-color_settings:
-  background_color: '#fdfbf1'
-  background_alt_color: '#fdfbf3'
-  text_dark_color: '#08090a'
-  text_medium_color: '#222223'
-  text_light_color: '#ABB7B7'
-  accent_color: '#B4D5FE'
-  border_color: '#dddddd'
-  overlay_background_color: '#161B21'
-  overlay_text_color: '#ABB7B7'
-  error_color: '#02479d'
-
-font_settings:
-  title_font: '"Merriweather", serif'
-  body_font: '"Open Sans", sans-serif'
-  regular_weight: 400
-  bold_weight: 600
-  site_title:
-    small_size: 1.5625
-    medium_size: 1.875
-    large_size: 2.1875
-    weight: 400
-    letter_spacing: 0
-  site_tagline:
-    small_size: 1
-    medium_size: 1.0625
-    large_size: 1.125
-    weight: 400
-    letter_spacing: 0
-    line_height: 1.5
-  menu:
-    small_size: 1.875
-    medium_size: 1.0625
-    large_size: 1.125
-    weight: 400
-    letter_spacing: 0
-  h1:
-    small_size: 1.375
-    medium_size: 1.5625
-    large_size: 1.875
-    weight: 400
-    letter_spacing: 0
-    line_height: 1.6
-  h2:
-    small_size: 1.0625
-    medium_size: 1.375
-    large_size: 1.375
-    weight: 400
-    letter_spacing: 0
-    line_height: 1.6
-  h3:
-    small_size: 1.0625
-    medium_size: 1.25
-    large_size: 1.25
-    weight: 400
-    letter_spacing: 0
-    line_height: 1.6
-  p:
-    small_size: 0.8125
-    medium_size: 1
-    large_size: 1.125
-    weight: 400
-    letter_spacing: 0
-    line_height: 1.6
-  h4:
-    small_size: 0.75
-    medium_size: 0.875
-    large_size: 1
-    weight: 400
-    letter_spacing: 0
-    line_height: 1.6
-  h5:
-    small_size: 0.625
-    medium_size: 0.75
-    large_size: 0.875
-    weight: 400
-    letter_spacing: 0
-    line_height: 1.6
-  h6:
-    small_size: 0.5
-    medium_size: 0.625
-    large_size: 0.75
-    weight: 400
-    letter_spacing: 0
-    line_height: 1.6
-  blockquote:
-    small_size: 1.0625
-    medium_size: 1.25
-    large_size: 1.25
-    weight: 400
-    letter_spacing: -0.02
-    line_height: 1.6
-  buttons:
-    weight: 600
-    letter_spacing: 0
-  footnote:
-    small_size: 0.625
-    medium_size: 0.75
-    large_size: 0.9375
-    weight: 400
-    letter_spacing: 0
-    line_height: 1.6
 
 advanced_settings:
   ajax_loading: true

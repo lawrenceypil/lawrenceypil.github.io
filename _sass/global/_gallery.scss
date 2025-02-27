@@ -1,3 +1,6 @@
+@use 'vars';
+@use 'mixins' as *;
+
 // - - - - - - - - - - - - - - - - - -
 
 // Gallery
@@ -76,13 +79,13 @@
 			height: 12px;
 			border: 0;
 			border-radius: 100%;
-			background: $text-light-color;
+			background: vars.$text-light-color;
 			@include transition(all 0.2s ease-in-out);
 			cursor: pointer;
 			outline: none;
 
 			&.active {
-				background: $accent-color;
+				background: vars.$accent-color;
 			}
 		}
 	}
@@ -95,14 +98,14 @@
 .gallery--grid {
 
 	.gallery__wrap {
-		margin-left: -$grid-spacing/2;
-		margin-right: -$grid-spacing/2;
+		margin-left:  calc(-1 * (vars.$grid-spacing) / 2);
+		margin-right: calc(-1 * (vars.$grid-spacing) / 2);
 	}
 	
 	.gallery__item {
 		float: left;
 		width: 50%;
-		padding: $grid-spacing/2;
+		padding: calc(vars.$grid-spacing / 2);
 	}
 
 	.gallery__item__link {

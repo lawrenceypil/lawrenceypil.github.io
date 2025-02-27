@@ -1,3 +1,6 @@
+@use 'vars';
+@use 'mixins' as *;
+
 // - - - - - - - - - - - - - - - - - -
 
 // Footer
@@ -31,28 +34,28 @@
 
 .footer__copyright {
 	display: block;
-	font-size: $footnote-small;
-	font-weight: $footnote-weight;
-	line-height: $footnote-lineheight;
-	letter-spacing: $footnote-spacing;
-	color: $text-light-color;
+	font-size: vars.$footnote-small;
+	font-weight: vars.$footnote-weight;
+	line-height: vars.$footnote-lineheight;
+	letter-spacing: vars.$footnote-spacing;
+	color: vars.$text-light-color;
 
 	@include mq(tabletl) {
 		padding-left: 40px;
-		font-size: $footnote-medium;
+		font-size: vars.$footnote-medium;
 	}
 
 	@include mq(laptop) {
 		padding-left: 60px;
-		font-size: $footnote-large;
+		font-size: vars.$footnote-large;
 	}
 
 	a {
 		margin-left: 0px;
-		color: $text-light-color;
+		color: vars.$text-light-color;
 
 		&:hover {
-			color: $text-dark-color;
+			color: vars.$text-dark-color;
 		}
 	}
 }

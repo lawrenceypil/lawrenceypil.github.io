@@ -1,3 +1,6 @@
+@use 'vars';
+@use 'mixins' as *;
+
 // - - - - - - - - - - - - - - - - - -
 
 // Header + menu
@@ -10,8 +13,8 @@
 
 .header {
 	padding: 40px 20px;
-	background: $overlay-background-color;
-	font-family: $title-font; // Menu in title font in vertical menu...
+	background: vars.$overlay-background-color;
+	font-family: vars.$title-font; // Menu in title font in vertical menu...
 
 	@include mq(tabletp) {
 		padding: 80px 40px;
@@ -26,7 +29,7 @@
 		bottom: 0;
 		width: 30%;
 		padding: 0;
-		font-family: $body-font; // ...but body font in horizontal menu.
+		font-family: vars.$body-font; // ...but body font in horizontal menu.
 	}
 
 	@include mq(desktop) {
@@ -67,12 +70,12 @@
 	left: 0;
 	bottom: 0;
 	right: 0;
-	background: rgba($overlay-background-color, $overlay-opacity);
+	background: rgba(vars.$overlay-background-color, vars.$overlay-opacity);
 
 	@include mq(tabletl) {
-		background: -moz-linear-gradient(top, rgba($overlay-background-color, 0) 0%, rgba($overlay-background-color, 0.01) 1%, rgba($overlay-background-color, $overlay-opacity) 70%, rgba($overlay-background-color, $overlay-opacity) 100%);
-		background: -webkit-linear-gradient(top, rgba($overlay-background-color, 0) 0%, rgba($overlay-background-color, 0.01) 1%, rgba($overlay-background-color, $overlay-opacity) 70%, rgba($overlay-background-color, $overlay-opacity) 100%);
-		background: linear-gradient(to bottom, rgba($overlay-background-color, 0) 0%, rgba($overlay-background-color, 0.01) 1%, rgba($overlay-background-color, $overlay-opacity) 70%, rgba($overlay-background-color, $overlay-opacity) 100%);
+		background: -moz-linear-gradient(top, rgba(vars.$overlay-background-color, 0) 0%, rgba(vars.$overlay-background-color, 0.01) 1%, rgba(vars.$overlay-background-color, vars.$overlay-opacity) 70%, rgba(vars.$overlay-background-color, vars.$overlay-opacity) 100%);
+		background: -webkit-linear-gradient(top, rgba(vars.$overlay-background-color, 0) 0%, rgba(vars.$overlay-background-color, 0.01) 1%, rgba(vars.$overlay-background-color, vars.$overlay-opacity) 70%, rgba(vars.$overlay-background-color, vars.$overlay-opacity) 100%);
+		background: linear-gradient(to bottom, rgba(vars.$overlay-background-color, 0) 0%, rgba(vars.$overlay-background-color, 0.01) 1%, rgba(vars.$overlay-background-color, vars.$overlay-opacity) 70%, rgba(vars.$overlay-background-color, vars.$overlay-opacity) 100%);
 	}
 }
 
@@ -92,7 +95,7 @@
 
 .header__logo {
 	display: block;
-	width: $logo-width;
+	width: vars.$logo-width;
 	max-width: 80%;
 
 	@include mq(tabletp) {
@@ -107,41 +110,41 @@
 }
 
 .header__title {
-	font-family: $title-font;
-	font-size: $sitetitle-small;
-	font-weight: $sitetitle-weight;
-	letter-spacing: $sitetitle-spacing;
+	font-family: vars.$title-font;
+	font-size: vars.$sitetitle-small;
+	font-weight: vars.$sitetitle-weight;
+	letter-spacing: vars.$sitetitle-spacing;
 	line-height: 1;
-	color: $overlay-text-color;
+	color: vars.$overlay-text-color;
 
 	&:hover {
-		color: $overlay-text-color;
+		color: vars.$overlay-text-color;
 	}
 
 	@include mq(tabletp) {
-		font-size: $sitetitle-medium;
+		font-size: vars.$sitetitle-medium;
 	}
 
 	@include mq(laptop) {
-		font-size: $sitetitle-large;
+		font-size: vars.$sitetitle-large;
 	}
 }
 
 .header__tagline {
 	margin-top: 10px;
-	font-family: $body-font;
-	font-size: $sitetagline-small;
-	font-weight: $sitetagline-weight;
-	letter-spacing: $sitetagline-spacing;
-	line-height: $sitetagline-lineheight;
-	color: rgba($overlay-text-color, 0.7);
+	font-family: vars.$body-font;
+	font-size: vars.$sitetagline-small;
+	font-weight: vars.$sitetagline-weight;
+	letter-spacing: vars.$sitetagline-spacing;
+	line-height: vars.$sitetagline-lineheight;
+	color: rgba(vars.$overlay-text-color, 0.7);
 
 	@include mq(tabletp) {
-		font-size: $sitetagline-medium;
+		font-size: vars.$sitetagline-medium;
 	}
 
 	@include mq(laptop) {
-		font-size: $sitetagline-large;
+		font-size: vars.$sitetagline-large;
 	}
 }
 
@@ -189,7 +192,7 @@
 		width: 100%;
 		height: 3px;
 		@include transition(all 0.1s);
-		background: rgba($overlay-text-color, 0.7);
+		background: rgba(vars.$overlay-text-color, 0.7);
 	}
 
 	span:before {
@@ -204,7 +207,7 @@
 .menu--open .menu__toggle__icon {
 
 	span:before, span:after {
-		background: $overlay-text-color !important;
+		background: vars.$overlay-text-color !important;
 	}
 		
 	span {
@@ -232,7 +235,7 @@
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: rgba($overlay-background-color,0.95);
+	background: rgba(vars.$overlay-background-color,0.95);
 	overflow: auto;
 
 	visibility: hidden;
@@ -276,26 +279,26 @@
 }
 
 .menu__list__item__link {
-	font-size: $menu-small;
-	font-weight: $menu-weight;
-	color: rgba($overlay-text-color, 0.7);
+	font-size: vars.$menu-small;
+	font-weight: vars.$menu-weight;
+	color: rgba(vars.$overlay-text-color, 0.7);
 	padding: 10px 0;
 
 	&:hover {
-		color: $overlay-text-color;
+		color: vars.$overlay-text-color;
 	}
 
 	@include mq(tabletl) {
 		padding: 0;
-		font-size: $menu-medium;
+		font-size: vars.$menu-medium;
 	}
 
 	@include mq(laptop) {
-		font-size: $menu-large;
+		font-size: vars.$menu-large;
 	}
 	
 	&.active-link {
-		color: $overlay-text-color;
+		color: vars.$overlay-text-color;
 	}
 }
 
@@ -333,12 +336,12 @@
 	}
 
 	.socials__item__link {
-		background: rgba($overlay-text-color, 0.7);
-		color: $overlay-background-color;
+		background: rgba(vars.$overlay-text-color, 0.7);
+		color: vars.$overlay-background-color;
 
 		&:hover {
-			background: $overlay-text-color;
-			color: $overlay-background-color;
+			background: vars.$overlay-text-color;
+			color: vars.$overlay-background-color;
 		}
 	}
 }

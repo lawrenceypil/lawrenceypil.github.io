@@ -1,3 +1,7 @@
+@use 'vars';
+@use 'mixins' as *;
+@use 'sass:color';
+
 // - - - - - - - - - - - - - - - - - -
 
 // Contact form
@@ -5,7 +9,7 @@
 // - - - - - - - - - - - - - - - - - -
 
 .contact-form {
-	background: $background-alt-color;
+	background: vars.$background-alt-color;
 	margin: 20px auto;
 	width: 100%;
 	padding: 20px;
@@ -55,22 +59,22 @@
 
 	.contact-form__input,
 	.contact-form__textarea {
-		border-color: $error-color;
+		border-color: vars.$error-color;
 	}
 }
 
 .contact-form__label {
 	display: block;
-	font-size: $p-small;
-	font-weight: $bold-weight;
-	color: $text-medium-color;
+	font-size: vars.$p-small;
+	font-weight: vars.$bold-weight;
+	color: vars.$text-medium-color;
 
 	@include mq(tabletp) {
-		font-size: $p-medium;
+		font-size: vars.$p-medium;
 	}
 
 	@include mq(laptop) {
-		font-size: $p-large;
+		font-size: vars.$p-large;
 	}
 }
 
@@ -78,41 +82,41 @@
 .contact-form__textarea {
 	width: 100%;
 	margin-top: 8px;
-	border: 2px solid $border-color;
+	border: 2px solid vars.$border-color;
 	border-radius: 2px;
 	padding: 10px 12px;
-	background: $background-color;
-	font-size: $p-small;
+	background: vars.$background-color;
+	font-size: vars.$p-small;
 	line-height: 1.4;
-	color: $text-dark-color;
+	color: vars.$text-dark-color;
 	@include transition(all 0.15s ease-in-out);
 
 	@include mq(tabletp) {
 		padding: 15px 18px;
-		font-size: $p-medium;
+		font-size: vars.$p-medium;
 	}
 
 	@include mq(laptop) {
-		font-size: $p-large;
+		font-size: vars.$p-large;
 	}
 
 	&:focus {
 		outline: none;
-		border-color: $accent-color;
+		border-color: vars.$accent-color;
 	}
 }
 
 ::-webkit-input-placeholder {
-	color: lighten($text-light-color,15%);
+	color: color.adjust(vars.$text-light-color, $lightness: 15%);
 }
 ::-moz-placeholder {
-	color: lighten($text-light-color,15%);
+	color: color.adjust(vars.$text-light-color, $lightness: 15%);
 }
 :-ms-input-placeholder {
-	color: lighten($text-light-color,15%);
+	color: color.adjust(vars.$text-light-color, $lightness: 15%);
 }
 :-moz-placeholder {
-	color: lighten($text-light-color,15%);
+	color: color.adjust(vars.$text-light-color, $lightness: 15%);
 }
 
 .contact-form__textarea {
