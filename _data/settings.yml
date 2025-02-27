@@ -56,7 +56,3 @@ social_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: ""
-  custom_styles: ""
-  header_js: ""
-  footer_js: ""
