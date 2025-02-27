@@ -7,7 +7,7 @@ featured_image_alt: ""
 permalink: /privacy
 ---
 
-**Last updated: 1 April 2022**
+**Last updated: 27 Feb 2025**
 
 This Privacy Policy outlines how I collect and use your data while you are on this website.
 
