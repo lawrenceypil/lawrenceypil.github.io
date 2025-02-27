@@ -2,7 +2,7 @@
 layout: post
 title: Whatever It Is You Want
 date: '2023-03-02T16:00:00.000Z'
-featured_image: /assets/images/selected-works/whateveritis.png
+featured_image: /assets/images/selected-works/whateveritis.jpeg
 featured_image_alt: >-
   Abstract multicolor painting. A blue, distorted human body, a pen coming
   out of its heart, cutting the body in two and leaving an ink trail behind it.

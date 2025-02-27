@@ -2,7 +2,7 @@
 layout: post
 title: Claire de Lune at Dusk
 date: '2023-02-27T16:00:00.000Z'
-featured_image: /assets/images/selected-works/clairedelune.png
+featured_image: /assets/images/selected-works/clairedelune.jpeg
 featured_image_alt: >-
   A watercolor painting. At the bottom, a piano with sheet music open. Behind
   it, a forest with large trees, birds flying, and blue sky.

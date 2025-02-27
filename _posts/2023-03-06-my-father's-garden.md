@@ -2,7 +2,7 @@
 layout: post
 title: My Father's Garden
 date: '2023-03-06T16:00:00.000Z'
-featured_image: /assets/images/selected-works/myfathersgarden.png
+featured_image: /assets/images/selected-works/myfathersgarden.jpeg
 featured_image_alt: >-
   Surreal painting. A green leafy forest in the background. The roots of the
   trees surround a river that rises up to become an ink pen.

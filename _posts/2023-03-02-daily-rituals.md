@@ -2,7 +2,7 @@
 layout: post
 title: Daily Rituals
 date: '2023-03-02T16:00:00.000Z'
-featured_image: /assets/images/selected-works/dailyrituals.png
+featured_image: /assets/images/selected-works/dailyrituals.jpeg
 featured_image_alt: >-
   Sketch. Close up of a man's face in the foreground. A church with bells and
   a cross in the background. There is a moon in the sky.

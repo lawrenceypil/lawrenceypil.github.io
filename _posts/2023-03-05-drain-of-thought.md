@@ -2,7 +2,7 @@
 layout: post
 title: Drain of Thought
 date: '2023-03-05T16:00:00.000Z'
-featured_image: /assets/images/selected-works/drainofthought.png
+featured_image: /assets/images/selected-works/drainofthought.jpeg
 featured_image_alt: >-
   Abstract multicolor painting. A distorted human face and a hand being
   pulled into a flushing toilet.
