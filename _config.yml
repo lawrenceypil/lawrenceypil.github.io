@@ -23,6 +23,11 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-email-protect
+  - jekyll-target-blank
+
+# External link settings (https://github.com/keithmifsud/jekyll-target-blank)
+target-blank:
+  noreferrer: false
 
 # Sitemap settings
 defaults:

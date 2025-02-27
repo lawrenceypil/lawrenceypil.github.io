@@ -39,4 +39,4 @@ When you click on links on this website, you may be directed to a third-party we
 I may modify this Privacy Policy at any time, without prior notice. This is most likely to happen if I set up a mailing list of some sort. Changes to this Privacy Policy take effect immediately upon their posting on this page.
 
 ### Contact us
-For issues / questions / clarifications, please send an email to <a href="mailto:{{ site.email | encode_email }}" target="_blank">{{ site.email }}</a>.
+For issues / questions / clarifications, please send an email to <a href="mailto:{{ site.email | encode_email }}">{{ site.email }}</a>.
