@@ -22,7 +22,7 @@ jobs:
         ruby-version: '3.3.6'
         bundler-cache: true
     - name: Set up Bun package manager
-      uses: oven-sh/setup-bun@v1
+      uses: oven-sh/setup-bun@v2
     - name: Install deps
       run: bun install
     - name: Update robots.txt
@@ -39,7 +39,7 @@ jobs:
       run: |
         bun run tinacms build && bundle exec jekyll build
     - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@v4
+      uses: JamesIves/github-pages-deploy-action@7351ba88c48758cc8e6520eb2cc139c8e8258bee
       env:
         CLIENT_ID: ${{ secrets.CLIENT_ID }}
         READ_TOKEN: ${{ secrets.READ_TOKEN }}
