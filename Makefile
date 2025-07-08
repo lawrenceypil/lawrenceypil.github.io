@@ -1,3 +1,5 @@
+.PHONY: init dev proof
+
 init:
 	bun install
 	bundle install
