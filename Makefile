@@ -17,9 +17,10 @@ update:
 	bun run tinacms dev
 
 release: proof
-	npm version minor && \
 	./update-robots.sh && \
-	git add . && \
-	git commit -m "Minor release: v$$(node -p "require('./package.json').version")" && \
-	git tag -a v$$(node -p "require('./package.json').version") -m "Release v$$(node -p "require('./package.json').version")" && \
+	if ! git diff --quiet; then \
+		git add . && \
+		git commit -m "Update files before version bump"; \
+	fi && \
+	npm version minor && \
 	git push && git push --tags
