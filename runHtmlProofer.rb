@@ -4,7 +4,8 @@ options = {
     ignore_urls: [
         /[\S]*archive.md[\S]*/,
         /[\S]*web.archive.org[\S]*/,
-        /[\S]*tandfonline.com[\S]*/
+        /[\S]*tandfonline.com[\S]*/,
+        /[\S]*allevents.in[\S]*/
     ],
     ignore_files: [
         /[\S]*_site\/admin\/[\S]*/
