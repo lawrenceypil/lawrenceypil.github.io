@@ -1,4 +1,4 @@
-.PHONY: init dev proof
+.PHONY: init dev proof update
 
 init:
 	bun install
@@ -11,3 +11,7 @@ dev:
 proof:
 	bundle exec jekyll build
 	ruby runHtmlProofer.rb
+
+update: proof
+	bun update
+	bun run tinacms dev
