@@ -1,4 +1,4 @@
-.PHONY: init dev proof update
+.PHONY: init dev proof release update
 
 init:
 	bun install
@@ -12,6 +12,15 @@ proof:
 	bundle exec jekyll build
 	ruby runHtmlProofer.rb
 
-update: proof
+update:
 	bun update
 	bun run tinacms dev
+
+release: proof
+	./update-robots.sh && \
+	if ! git diff --quiet; then \
+		git add . && \
+		git commit -m "Update files before version bump"; \
+	fi && \
+	npm version minor && \
+	git push && git push --tags
