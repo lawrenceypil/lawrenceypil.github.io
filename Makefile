@@ -17,7 +17,7 @@ update:
 	bun run tinacms dev
 
 release: proof
-	./update-robots.sh && \
+	./scripts/update-robots.sh && \
 	if ! git diff --quiet; then \
 		git add . && \
 		git commit -m "Update files before version bump"; \
