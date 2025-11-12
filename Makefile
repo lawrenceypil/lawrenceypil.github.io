@@ -10,7 +10,7 @@ dev:
 
 proof:
 	bundle exec jekyll build
-	ruby runHtmlProofer.rb
+	ruby scripts/runHtmlProofer.rb
 
 update:
 	bun update
