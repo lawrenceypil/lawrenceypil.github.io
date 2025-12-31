@@ -27,7 +27,7 @@ permalink: /publications
 As part of Ypil’s cross-displinary, multi-locationed practice, there are two versions of *Ventanilla: Duet*. One is designed by Cebu-based designer [Myka Arnado](https://cmyka.site), and another version is notated and designed by Melbourne-based [Regine Abos](https://www.studioregina.work).
 
 <div class="publication-nowrap" markdown="1">
-* [Essay Press Chapbook Contest finalist](https://www.essaypress.org/2023-chapbook-selected/), 2023
+* Essay Press Chapbook Contest finalist, 2023
 </div>
 
 <img src="/assets/images/ventanilla_and_sentimental.jpg"
@@ -37,7 +37,7 @@ As part of Ypil’s cross-displinary, multi-locationed practice, there are two v
 
 ## ***You know I was sentimental during the thought of the house*** (2022)
 
-In 2018, [Zach Aldave](https://www.zachaldave.com) took some photographs of a house. In May 2022, Zach and Larry talk about the photographs. In June 2022, Zach and Larry decide to let Google transcriber do its strange awkward magic and then we let book wizard [Marc Abuan](https://www.behance.net/dongquixote) turn all of this into a book of... is it poetry? A play? A brutally frank and honest conversation overheard through TV static which turns what was meant to be a tell-all into beautifully garbled speech. What should have been confession turned back into poetry, absurdist screenplay, which means *You know I was sentimental during the thought of the house* is really a book about childhood and houses and what we try to do when we want to talk about the past to set things straight only to end up making a wonderful queer mess out of it instead.
+In 2018, [Zach Aldave](https://www.zachaldave.com) took some photographs of a house. In May 2022, Zach and Larry talk about the photographs. In June 2022, Zach and Larry decide to let Google transcriber do its strange awkward magic and then we let book wizard [Marc Abuan](https://www.behance.net/dongquixote) turn all of this into a book of... is it poetry? A play? A brutally frank and honest conversation overheard through TV static which turns what was meant to be a tell-all into a beautifully garbled epic rant. What should have been confession turned back into poetry, absurdist screenplay, which means *You know I was sentimental during the thought of the house* is really a book about childhood and houses and what we try to do when we want to talk about the past to set things straight only to end up making a wonderful queer mess out of it instead.
 
 {% include section-break.html %}
 
@@ -99,7 +99,7 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 
 # Poems
 
-[Aria](https://www.poetry.sg/lawrence-ypil-aria) / [recollect](https://www.poetry.sg/lawrence-ypil-recollect) - *Poetry.sg*, Feb 2025
+[Selected poems](https://www.poetry.sg/lawrence-ypil-porch) - *poetry.sg*, Feb 2025
 
 [As a Kind of Contact / You Shall Know Your Friends Well / While the Older Brother Sleeps](https://www.tandfonline.com/doi/full/10.1080/02690055.2023.2238409) - *Wasafiri*, Dec 2023
 

@@ -7,7 +7,7 @@ featured_image_alt: ''
 permalink: /about
 ---
 
-#### *What Ypil’s poetry ultimately intuits is a kind of life, a persistence of its possibility nevertheless, in a world seemingly already predetermined in all directions. In other words: living, perhaps as a strange way to leave."* - [Christian Benitez](https://www.poetry.sg/lawrence-ypil-intro)
+#### *"What Ypil’s poetry ultimately intuits is a kind of life, a persistence of its possibility nevertheless, in a world seemingly already predetermined in all directions. In other words: living, perhaps as a strange way to leave."* - Christian Benitez, [*Lawrence Ypil - A critical introduction*](https://www.poetry.sg/lawrence-ypil-intro)
 
 <img src="/assets/images/main.jpg"
 alt="Lawrence Ypil. Photograph of a middle aged man smiling at the camera. He is seated outdoors in a garden."
