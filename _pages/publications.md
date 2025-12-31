@@ -82,6 +82,7 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 ## ***The Highest Hiding Place*** (2009)
 
 <div class="publication-nowrap" markdown="1">
+* One of Rolling Stone Philippines' [25 Books that Define the Legacy of Ateneo de Manila University Press](https://rollingstonephilippines.com/culture/books/25-ateneo-press-books/), 2025
 * Madrigal-Gonzalez First Book Award winner, 2011
 * Gintong Aklat Awards for English Literature finalist, 2010
 </div>
