@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
-      uses: actions/checkout@v5
+      uses: actions/checkout@v6
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
@@ -34,7 +34,7 @@ jobs:
       run: |
         bun run tinacms build && bundle exec jekyll build
     - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@v4.7.4
+      uses: JamesIves/github-pages-deploy-action@v4.8.0
       env:
         CLIENT_ID: ${{ secrets.CLIENT_ID }}
         READ_TOKEN: ${{ secrets.READ_TOKEN }}
