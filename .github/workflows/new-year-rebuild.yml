@@ -1,0 +1,19 @@
+---
+name: New Year Rebuild
+
+on:
+  schedule:
+    - cron: '42 23 31 12 *'  # Dec 31 23:42 UTC = Jan 1 07:42 GMT+8
+
+permissions:
+  actions: write
+
+jobs:
+  trigger-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger deploy workflow
+        run: |
+          gh workflow run deploy.yml --repo ${{ github.repository }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
