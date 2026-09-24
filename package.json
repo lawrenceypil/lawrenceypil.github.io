@@ -12,9 +12,9 @@
   "author": "Lawrence Ypil",
   "license": "UNLICENSED",
   "dependencies": {
-    "@tinacms/cli": "^2.4.3",
-    "react": "^19.2.7",
-    "react-dom": "^19.2.7",
-    "tinacms": "^3.9.0"
+    "@tinacms/cli": "^3.1.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "tinacms": "^3.14.1"
   }
 }
