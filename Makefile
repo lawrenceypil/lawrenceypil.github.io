@@ -11,6 +11,7 @@ dev:
 proof:
 	bundle exec jekyll build
 	ruby scripts/runHtmlProofer.rb
+	node scripts/verifyLinks.mjs
 
 update:
 	bun update
