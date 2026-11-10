@@ -37,7 +37,7 @@ As part of Ypil’s cross-displinary, multi-locationed practice, there are two v
 
 ## ***You know I was sentimental during the thought of the house*** (2022)
 
-In 2018, [Zach Aldave](https://www.zachaldave.com) took some photographs of a house. In May 2022, Zach and Larry talk about the photographs. In June 2022, Zach and Larry decide to let Google transcriber do its strange awkward magic and then we let book wizard [Marc Abuan](https://www.behance.net/dongquixote) turn all of this into a book of... is it poetry? A play? A brutally frank and honest conversation overheard through TV static which turns what was meant to be a tell-all into a beautifully garbled epic rant. What should have been confession turned back into poetry, absurdist screenplay, which means *You know I was sentimental during the thought of the house* is really a book about childhood and houses and what we try to do when we want to talk about the past to set things straight only to end up making a wonderful queer mess out of it instead.
+In 2018, [Zach Aldave](https://www.instagram.com/zachaldave/) took some photographs of a house. In May 2022, Zach and Larry talk about the photographs. In June 2022, Zach and Larry decide to let Google transcriber do its strange awkward magic and then we let book wizard [Marc Abuan](https://www.behance.net/dongquixote) turn all of this into a book of... is it poetry? A play? A brutally frank and honest conversation overheard through TV static which turns what was meant to be a tell-all into a beautifully garbled epic rant. What should have been confession turned back into poetry, absurdist screenplay, which means *You know I was sentimental during the thought of the house* is really a book about childhood and houses and what we try to do when we want to talk about the past to set things straight only to end up making a wonderful queer mess out of it instead.
 
 {% include section-break.html %}
 
@@ -100,7 +100,7 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 
 # Poems
 
-[Selected poems](https://www.poetry.sg/lawrence-ypil-porch) - *poetry.sg*, Feb 2025
+[Selected poems](https://www.poetry.sg/lawrence-ypil-thehighesthidingplace) - *poetry.sg*, Feb 2025
 
 [As a Kind of Contact / You Shall Know Your Friends Well / While the Older Brother Sleeps](https://www.tandfonline.com/doi/full/10.1080/02690055.2023.2238409) - *Wasafiri*, Dec 2023
 
