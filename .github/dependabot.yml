@@ -4,18 +4,36 @@ updates:
   - package-ecosystem: github-actions
     directory: /
     schedule:
-      interval: weekly
+      interval: cron
+      cronjob: "23 4 * * 4"
+      timezone: Asia/Singapore
     cooldown:
       default-days: 7
+    groups:
+      github-actions:
+        patterns:
+          - "*"
   - package-ecosystem: bun
     directory: /
     schedule:
-      interval: weekly
+      interval: cron
+      cronjob: "23 4 * * 4"
+      timezone: Asia/Singapore
     cooldown:
       default-days: 7
+    groups:
+      bun:
+        patterns:
+          - "*"
   - package-ecosystem: bundler
     directory: /
     schedule:
-      interval: weekly
+      interval: cron
+      cronjob: "23 4 * * 4"
+      timezone: Asia/Singapore
     cooldown:
       default-days: 7
+    groups:
+      bundler:
+        patterns:
+          - "*"
